@@ -1,0 +1,6 @@
+{
+  "name": "Bill Jaanch",
+  "description": "AI-powered agent for hospital bill auditing, insurance deduction cross-checking, evidence-backed appeals, and follow-up tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
